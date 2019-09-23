@@ -1,0 +1,11 @@
+/* ==========================================================================
+Footer
+========================================================================== */
+.rfb-footer {
+    color: #ffffff;
+    padding: 60px 0;
+    font-size: 18px;
+    font-weight: 200;
+    background: url('../../../content/images/beer-dark.jpg') repeat-y center center;
+    background-size: 100%;
+}
